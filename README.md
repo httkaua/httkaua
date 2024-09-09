@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @httkaua
 - 👀 I’m interested in be a server-side developer
-- 🌱 I’m currently learning JavaScript and Node.js
+- 🌱 I’m currently learning Javascript and Node.js
 - 📫 How to reach me: kaua04hamilton@gmail.com
 - 😄 Pronouns: He/Him
 
