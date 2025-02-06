@@ -1,6 +1,7 @@
 ## Kauã Hamilton
 
 I already do the most important thing a programmer needs: Drink coffee. ☕
+Current project: https://github.com/httkaua/dosToc
 
 ### 🚀 Studying now
 
