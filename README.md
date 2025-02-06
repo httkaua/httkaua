@@ -1,6 +1,6 @@
 ## Kauã Hamilton
 
-I already do the most important thing: Drink coffee. ☕
+I already do the most important thing a programmer needs: Drink coffee. ☕
 
 ### 🚀 Studying now
 
