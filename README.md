@@ -12,7 +12,7 @@ I already do the most important thing: Drink coffee. ☕
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   </div>
   <div style="margin: 10px;">
-    <img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </div>
 </div>
 
