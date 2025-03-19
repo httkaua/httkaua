@@ -4,7 +4,7 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
 
 ## Featured project: https://github.com/httkaua/dosToc
 
-## Goal: become a web developer, especially in back-end.
+## My goal: become a web developer, especially in back-end.
 
 <br>
 
@@ -20,11 +20,11 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
   <div style="margin: 10px;">
     
   </div>
-</div>
+</div><br>
 
 ## 📚 Current skills
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
   ### Back-end: <br>
   <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
