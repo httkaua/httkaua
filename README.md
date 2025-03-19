@@ -27,7 +27,7 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br><br>
 
   Front-end:<br>
   <img src="https://img.shields.io/badge/logo-HTML5-e34f26?logo=html5&amp%3Blabel=&amp%3BlabelColor=555555&amp%3BlogoColor=white">
@@ -39,4 +39,7 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
 
 <div style="display: inline_block"><br>
   <img alt="Portuguese (native)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png">
+  <img alt="English (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png">
+  <img alt="Latin spanish (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png">
+  <img alt="Mandarin-chinese (basic)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_China.png/1024px-Flag_of_China.png">
 </div>
