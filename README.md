@@ -1,10 +1,10 @@
-## Kauã Hamilton
+# Kauã Hamilton
 
 I already do the most important thing a programmer needs: Drink coffee. ☕
 
-### Featured project: https://github.com/httkaua/dosToc
+## Featured project: https://github.com/httkaua/dosToc
 
-### 🚀 Studying now
+## 🚀 Studying now
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="margin: 10px;">
@@ -18,7 +18,7 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
   </div>
 </div>
 
-### 📚 Current skills
+## 📚 Current skills
 
 <div style="display: inline_block"><br>
   Back-end:<br>
@@ -35,15 +35,15 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
   
 </div>
 
-### 🗣 Languages
+## 🗣 Languages
 
 <div style="display: inline_block"><br>
-  Portuguese (native)
-  <img alt="Portuguese (native)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png">
-  English (advanced)
+  Portuguese (native)<br>
+  <img alt="Portuguese (native)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"><br>
+  English (advanced)<br>
   <img alt="English (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png"><br>
-  Latin spanish (advanced)
+  Latin spanish (advanced)<br>
   <img alt="Latin spanish (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png"><br>
-  "Mandarin/chinese (essential and learning)
+  Mandarin/chinese (essential and learning)<br>
   <img alt="Mandarin-chinese (basic)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_China.png/1024px-Flag_of_China.png">
 </div>
