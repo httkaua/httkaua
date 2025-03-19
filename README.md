@@ -6,6 +6,8 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
 
 ## Goal: become a web developer, especially in back-end.
 
+<br>
+
 ## 🚀 Studying now
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -36,7 +38,7 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
   <img src="https://img.shields.io/badge/logo-HTML5-e34f26?logo=html5&amp%3Blabel=&amp%3BlabelColor=555555&amp%3BlogoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   
-</div>
+</div><br>
 
 ## 🗣 Languages
 
