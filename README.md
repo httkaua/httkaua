@@ -38,8 +38,12 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
 ### 🗣 Languages
 
 <div style="display: inline_block"><br>
+  Portuguese (native)
   <img alt="Portuguese (native)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png">
-  <img alt="English (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png">
-  <img alt="Latin spanish (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png">
+  English (advanced)
+  <img alt="English (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png"><br>
+  Latin spanish (advanced)
+  <img alt="Latin spanish (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png"><br>
+  "Mandarin/chinese (essential and learning)
   <img alt="Mandarin-chinese (basic)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_China.png/1024px-Flag_of_China.png">
 </div>
