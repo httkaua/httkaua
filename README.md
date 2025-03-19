@@ -2,7 +2,7 @@
 
 I already do the most important thing a programmer needs: Drink coffee. ☕
 
-Current project: https://github.com/httkaua/dosToc
+### Featured project: https://github.com/httkaua/dosToc
 
 ### 🚀 Studying now
 
@@ -28,6 +28,7 @@ Current project: https://github.com/httkaua/dosToc
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
 </div>
 
 ### 🗣 Languages
