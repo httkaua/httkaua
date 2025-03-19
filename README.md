@@ -28,11 +28,11 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
   <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
   <img src="https://img.shields.io/badge/logo-HTML5-e34f26?logo=html5&amp%3Blabel=&amp%3BlabelColor=555555&amp%3BlogoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
 
 ### 🗣 Languages
 
 <div style="display: inline_block"><br>
-  
+  <img alt="Portuguese (native)" heigh="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png">
 </div>
