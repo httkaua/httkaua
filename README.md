@@ -23,7 +23,8 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
 ## 📚 Current skills
 
 <div style="display: inline_block"><br>
-  ### Back-end:<br>
+
+  ### Back-end: <br>
   <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
