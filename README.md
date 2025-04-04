@@ -45,7 +45,7 @@ I already do the most important thing a programmer needs: Drink coffee. ☕
 <div style="display: inline_block"><br>
   Portuguese (native)<br>
   <img alt="Portuguese (native)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png"><br>
-  English (advanced)<br>
+  English (intermediate)<br>
   <img alt="English (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png"><br>
   Latin spanish (advanced)<br>
   <img alt="Latin spanish (advanced)" style="width:40px; height:auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png"><br>
