@@ -45,7 +45,7 @@ A system for Real State Companies and agents, built with Typescript, MongoDB and
   
 </div>
 
-### Current skills (In text)
+### Current skills (in text)
 JavaScript · TypeScript · Node.js · Express.js · NestJS · MongoDB · Git · MySQL · Python · Bootstrap · HTML · CSS
 
 ---
