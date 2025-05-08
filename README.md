@@ -18,9 +18,9 @@ A system for Real State Companies and agents, built with Typescript, MongoDB and
 ## 🚀 Studying now
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="Nest.js">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" style="width:40px; height:auto;" alt="Typescript">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" style="width:40px; height:auto;" alt="Nest.js">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" style="width:40px; height:auto;" alt="Docker"/>
 </div>
 
 ---
@@ -29,18 +29,18 @@ A system for Real State Companies and agents, built with Typescript, MongoDB and
 
 <div style="display: inline_block">
 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="Javascript">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="Nest.js"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" style="width:40px; height:auto;" alt="Javascript">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" style="width:40px; height:auto;" alt="Typescript"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" style="width:40px; height:auto;" alt="Node.js"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" style="width:40px; height:auto;" alt="Express.js"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" style="width:40px; height:auto;" alt="Nest.js"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" style="width:40px; height:auto;" alt="MongoDB"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" style="width:40px; height:auto;" alt="Git"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" style="width:40px; height:auto;" alt="MySQL">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" style="width:40px; height:auto;" alt="Python">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" style="width:40px; height:auto;" alt="Bootstrap">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" style="width:40px; height:auto;" alt="HTML">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" style="width:40px; height:auto;" alt="CSS">
   
 </div>
 
